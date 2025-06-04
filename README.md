@@ -27,7 +27,7 @@ UI에서 다양한 명령을 입력하고, 실제 로봇 동작 시뮬레이션 
 
 ## 🔗 빌드 파일 다운로드
 
-👉 [**Google Drive에서 실행 파일 받기**](https://drive.google.com/drive/folders/1pKExNwu_xbcwftRKn7rQygri5oqJNQss?usp=sharing)
+👉 [**Google Drive에서 실행 파일 받기**](https://drive.google.com/drive/folders/1YPCTM4gUhWy08CYEejeyYY9DErpmIIKe?usp=sharing)
 - Windows 기준 테스트됨
 - Unity 버전: `2022.3.x LTS`
 
